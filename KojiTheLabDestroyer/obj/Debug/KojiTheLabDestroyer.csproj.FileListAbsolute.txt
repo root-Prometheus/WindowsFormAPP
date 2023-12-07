@@ -1,0 +1,11 @@
+C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\bin\Debug\KojiTheLabDestroyer.exe.config
+C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\bin\Debug\KojiTheLabDestroyer.exe
+C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\bin\Debug\KojiTheLabDestroyer.pdb
+C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\obj\Debug\KojiTheLabDestroyer.csproj.AssemblyReference.cache
+C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\obj\Debug\KojiTheLabDestroyer.Form1.resources
+C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\obj\Debug\KojiTheLabDestroyer.Properties.Resources.resources
+C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\obj\Debug\KojiTheLabDestroyer.csproj.GenerateResource.cache
+C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\obj\Debug\KojiTheLabDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\obj\Debug\KojiTheLabDestroyer.exe
+C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\obj\Debug\KojiTheLabDestroyer.pdb
+C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\obj\Debug\KojiTheLabDestroyer.Form2.resources
