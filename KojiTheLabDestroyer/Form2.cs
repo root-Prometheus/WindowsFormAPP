@@ -26,5 +26,14 @@ namespace KojiTheLabDestroyer
             this.Close();
 
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void darkside_Click(object sender, EventArgs e)
+        {
+        }
     }
 }
