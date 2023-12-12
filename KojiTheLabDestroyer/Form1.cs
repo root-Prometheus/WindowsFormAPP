@@ -17,11 +17,15 @@ namespace KojiTheLabDestroyer
     public partial class Form1 : Form
     {
         private string conString = "Data Source=DESKTOP-HH4KBRC;Initial Catalog=KojimaTheConquerror;Integrated Security=True";
+        private string usernamec = "";
         public Form1()
         {
             InitializeComponent();
         }
-      
+        public string getusr()
+        {
+            return this.usernamec;
+        }
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -51,6 +55,7 @@ namespace KojiTheLabDestroyer
                                 if(psw.Trim() == password.Trim())
                                 {
                                     i = 0;
+                                    this.usernamec = username.Trim();
                                     Form2 HomePage = new Form2(this);
                                     this.Hide();
                                     HomePage.Show();

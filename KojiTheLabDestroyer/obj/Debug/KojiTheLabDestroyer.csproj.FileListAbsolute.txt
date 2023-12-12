@@ -9,3 +9,4 @@ C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\obj\Debug\K
 C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\obj\Debug\KojiTheLabDestroyer.exe
 C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\obj\Debug\KojiTheLabDestroyer.pdb
 C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\obj\Debug\KojiTheLabDestroyer.Form2.resources
+C:\Users\Kojima\source\repos\KojiTheLabDestroyer\KojiTheLabDestroyer\obj\Debug\KojiTheLabDestroyer.Form3.resources
